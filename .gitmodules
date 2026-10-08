@@ -1,0 +1,6 @@
+[submodule "components/fast_localization"]
+	path = components/fast_localization
+	url = https://github.com/WeJCh/FAST-LOCALIZATION-RobotDog.git
+[submodule "components/3d_bbs"]
+	path = components/3d_bbs
+	url = https://github.com/WeJCh/3d-bbs-robotdog.git

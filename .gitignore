@@ -1,0 +1,15 @@
+# External data and reproducible-run artifacts: keep outside the source lock.
+artifacts/
+datasets/
+maps/
+results/
+
+# ROS 2 / colcon products.
+build/
+install/
+log/
+
+# Large sensor and point-cloud files are never versioned by this stack.
+*.db3
+*.mcap
+*.pcd
